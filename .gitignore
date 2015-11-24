@@ -3,3 +3,4 @@
 cpucount
 build/
 target/
+*.o
